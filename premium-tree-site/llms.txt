@@ -1,0 +1,58 @@
+# All Tree Control
+
+> All Tree Control is a locally owned, licensed, and insured tree care company based in Little Rock, Arkansas. We provide tree removal, tree trimming and pruning, stump and debris services, and tree health and care to homeowners across the Little Rock metro, with 24/7 emergency response for storm damage.
+
+Phone: (501) 555-0134
+Email: hello@alltreecontrol.com
+Hours: Monday–Friday 7:00 AM–6:00 PM, Saturday 8:00 AM–2:00 PM, 24/7 emergency storm response
+Website: https://www.alltreecontrol.com/
+
+## Service Areas
+
+Primary service area pages: Little Rock, North Little Rock, Conway, Benton, and Sherwood, AR.
+Also regularly serving: Bryant, Maumelle, Jacksonville, Cabot, Alexander, Mayflower, and Searcy, AR.
+
+## Services
+
+### Tree Removal (https://www.alltreecontrol.com/services/tree-removal/)
+- Emergency Tree Removal (https://www.alltreecontrol.com/services/tree-removal/emergency-tree-removal/) — 24/7 response for fallen or dangerously leaning trees
+- Large Tree Removal (https://www.alltreecontrol.com/services/tree-removal/large-tree-removal/) — specialized rigging and equipment for oversized trees
+- Hazardous Tree Removal — removal of structurally unsound or high-risk trees
+- Lot & Land Clearing — clearing wooded lots ahead of construction or landscaping
+- Crane-Assisted Tree Removal — crane support for trees too large or too close to structures for standard felling
+
+### Tree Trimming & Pruning (https://www.alltreecontrol.com/services/tree-trimming-pruning/)
+- Crown Reduction (https://www.alltreecontrol.com/services/tree-trimming-pruning/crown-reduction/) — reduces a tree's height and spread while preserving its shape
+- Storm Damage Prevention Trimming (https://www.alltreecontrol.com/services/tree-trimming-pruning/storm-damage-prevention-trimming/) — removes weak limbs before storm season
+- Crown Thinning — lets light and air through a dense canopy
+- Deadwood Removal — removes dead and broken limbs
+- Structural Pruning — trains young trees for long-term stability
+
+### Stump & Debris Services (https://www.alltreecontrol.com/services/stump-debris-services/)
+- Stump Grinding (https://www.alltreecontrol.com/services/stump-debris-services/stump-grinding/) — grinds stumps below grade
+- Storm Cleanup (https://www.alltreecontrol.com/services/stump-debris-services/storm-cleanup/) — rapid removal of storm-downed debris
+- Stump Removal — full stump and root ball extraction
+- Brush Removal — clears overgrown brush and fence-line thickets
+- Debris Hauling & Cleanup — hauls away wood, branches, and yard debris
+
+### Tree Health & Care (https://www.alltreecontrol.com/services/tree-health-care/)
+- Tree Health Assessments (https://www.alltreecontrol.com/services/tree-health-care/tree-health-assessments/) — on-site diagnostic evaluation
+- Tree Disease Treatment (https://www.alltreecontrol.com/services/tree-health-care/tree-disease-treatment/) — targeted treatment for fungal, bacterial, and vascular disease
+- Insect & Pest Treatment — identifies and treats active infestations
+- Deep Root Fertilization — delivers nutrients directly to the root zone
+- Tree Cabling & Bracing — structural support for weak unions and split trunks
+
+## Key Pages
+
+- Home: https://www.alltreecontrol.com/
+- About: https://www.alltreecontrol.com/about/
+- Contact / Free Estimate: https://www.alltreecontrol.com/contact/
+- Little Rock service area: https://www.alltreecontrol.com/areas/little-rock/
+- North Little Rock service area: https://www.alltreecontrol.com/areas/north-little-rock/
+- Conway service area: https://www.alltreecontrol.com/areas/conway/
+- Benton service area: https://www.alltreecontrol.com/areas/benton/
+- Sherwood service area: https://www.alltreecontrol.com/areas/sherwood/
+
+## Notes
+
+This is a demonstration/portfolio website. Phone number, email, and business details are placeholders and not a live business.
