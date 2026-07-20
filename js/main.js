@@ -55,11 +55,13 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 
-  // Sticky header shadow on scroll
+  // Floating header: solid background once scrolled (transparent over the hero at top)
   var header = document.querySelector('.site-header');
   if (header) {
-    window.addEventListener('scroll', function () {
+    function syncHeaderScrollState() {
       header.classList.toggle('is-scrolled', window.scrollY > 8);
-    });
+    }
+    syncHeaderScrollState();
+    window.addEventListener('scroll', syncHeaderScrollState);
   }
 });
